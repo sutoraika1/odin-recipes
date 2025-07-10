@@ -1,0 +1,62 @@
+p {
+    font-size: 24px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+ol {
+    font-size: 20px;
+}
+
+.link,
+.home {
+    background-color: rgb(118, 207, 207);
+    font-size: 24px;
+    margin: 40px 70px;
+    }
+
+.link {
+    width: 300px;
+    height: 120px;
+    box-sizing: border-box;
+     padding: 15px 30px;
+}
+
+.ingredient {
+    font-size: 18px;
+    background-color: bisque;
+    box-sizing: border-box;
+    margin: 12px;
+    padding: 20px 24px;
+
+}
+
+.spaghetti {
+    width: 420px;
+    height: 350px;
+}
+
+.lava-cake {
+    width: 340px;
+    height: 210px;
+    
+}
+
+.teriyaki-chicken {
+    width: 380px;
+    height: 230px;
+}
+
+.spaghetti-img {
+    height: 500px; 
+    width: 720px;
+}
+
+.lava-cake-img {
+    height: 600px;
+    width: 450px;
+}
